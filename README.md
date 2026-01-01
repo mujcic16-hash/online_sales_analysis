@@ -2,29 +2,29 @@
 
 
 
-\## Project Overview
+\## Opis projekta
 
-Python project to manage products and shopping cart using OOP concepts.
-
-
-
-\## Classes
-
-\- Product: represents a product with name, price, quantity.
-
-\- ProductManager: manages the product inventory.
-
-\- Cart: manages the customer's cart and calculates total value.
+Ovaj projekat simulira sistem za upravljanje proizvodima i korpom kupca koristeći OOP koncepte u Pythonu.
 
 
 
-\## Functionality
+\## Klase
 
-\- Add, display, update, and remove products.
+\- Product: predstavlja proizvod sa atributima name, price i quantity
 
-\- Add products to cart and calculate total value.
+\- ProductManager: upravlja listom proizvoda, dodavanje, prikaz i ukupna vrijednost
 
-\- Version control using Git and GitHub.
+\- Cart: upravlja korpom kupca, dodavanje proizvoda i računanje ukupne vrijednosti
+
+
+
+\## Funkcionalnosti
+
+\- Dodavanje, prikaz i uklanjanje proizvoda
+
+\- Upravljanje korpom kupca
+
+\- Dokumentacija kroz README.md i sigurnost podataka preko .gitignore
 
 
 
